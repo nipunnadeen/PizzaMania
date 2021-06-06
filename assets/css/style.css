@@ -1,0 +1,49 @@
+.post-date{
+	background:blue;
+	padding:4px;
+	margin:3px 0;
+	display:block;
+}
+
+.pizzaBox {
+	float: left;
+	width: 100%;
+	padding: 15px 5px 85px 5px;
+	position: relative;
+	border: 1px solid #fff;
+	overflow: hidden;
+}
+
+body {
+	background-image: url('../images/backgroundImage.jpg');
+	background-size: initial;
+	/*font-family: "Arial Black", sans-serif;*/
+	background-color: #CCCCCC;
+}
+
+.card{
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+}
+
+.card-title{
+	color: #000000;
+}
+
+.card-text{
+	height: 30%;
+	font-size: 15px;
+}
+
+.starting-price{
+	color: #000000;
+}
+
+#action-button{
+	width: 100%;
+	margin-top: 30px
+}
+
+#side-action-button{
+	width: 100%;
+}
